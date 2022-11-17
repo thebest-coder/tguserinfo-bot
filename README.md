@@ -1,7 +1,7 @@
 # tguserinfo-bot
 Telegram: @tguserinforobot
 
-<p>⚡️Step-1 <b>Birinchi o'rinda Git yoki terminal orqali <code>cd Desktop</code> buyrug'i orqali Desktopga o'tib olamiz<hr>Screenshoot👇</b></p>
+<p><b>⚡️Step-1</b> Birinchi o'rinda Git yoki terminal orqali <code>cd Desktop</code> buyrug'i orqali Desktopga o'tib olamiz<hr>Screenshoot👇</p>
 <img src="./screenshoot/1.png">
 
 
