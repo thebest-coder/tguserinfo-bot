@@ -1,6 +1,11 @@
 # tguserinfo-bot
 Telegram: @tguserinforobot
 
+<p>⚡️Step-1 <b>Birinchi o'rinda Git yoki terminal orqali <code>cd Desktop</code> buyrug'i orqali Desktopga o'tib olamiz<hr>Screenshoot👇</b></p>
+<img src="./screenshoot/1.png">
+
+
+
 <p>⚡️Step-1 <b>First of all, I need to download the code from the github repository</b></p>
 <code> git clone https://github.com/thebest-coder/tguserinfo-bot.git </code>
 
