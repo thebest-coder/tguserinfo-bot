@@ -1,7 +1,7 @@
 # tguserinfo-bot
 Telegram: @tguserinforobot
 
-<h4>⚡️Step-1</h4>
+<p>⚡️Step-1 <b>First of all, I need to download the code from the github repository</b></p>
 <code> git clone https://github.com/thebest-coder/tguserinfo-bot.git </code>
 
 
