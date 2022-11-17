@@ -8,7 +8,7 @@ Telegram: @tguserinforobot
 <h1>⚡️Step-2</h1>
 <code> cd tguserinfo-bot </code>
 
-<h1>⚡️Step-3</h1>
+<h4>⚡️Step-3</h4>
 <code> pip install requirements.txt </code>
 
 <h1>⚡️Step-4</h1>
