@@ -5,17 +5,17 @@ Telegram: @tguserinforobot
 <code> git clone https://github.com/thebest-coder/tguserinfo-bot.git </code>
 
 
-<h4>⚡️Step-2</h4>
+<p>⚡️Step-2</p>
 <code> cd tguserinfo-bot </code>
 
-<h4>⚡️Step-3</h4>
+<p>⚡️Step-3</p>
 <code> pip install requirements.txt </code>
 
-<h4>⚡️Step-4</h4>
+<p>⚡️Step-4</p>
 <code> config.py file | Change API_TOKEN = "BOT_TOKEN" <- You bot token </code>
 
 
-<h4>⚡️Step-5</h4>
+<p>⚡️Step-5</p>
 <code> python bot.py </code>
 
 # 🔥successful ✅ 
